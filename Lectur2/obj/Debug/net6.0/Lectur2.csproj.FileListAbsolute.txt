@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\lectures\Lectur2\bin\Debug\net6.0\Lectur2.exe
+C:\Users\HOME\Desktop\lectures\Lectur2\bin\Debug\net6.0\Lectur2.deps.json
+C:\Users\HOME\Desktop\lectures\Lectur2\bin\Debug\net6.0\Lectur2.runtimeconfig.json
+C:\Users\HOME\Desktop\lectures\Lectur2\bin\Debug\net6.0\Lectur2.dll
+C:\Users\HOME\Desktop\lectures\Lectur2\bin\Debug\net6.0\Lectur2.pdb
+C:\Users\HOME\Desktop\lectures\Lectur2\obj\Debug\net6.0\Lectur2.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\lectures\Lectur2\obj\Debug\net6.0\Lectur2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\lectures\Lectur2\obj\Debug\net6.0\Lectur2.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\lectures\Lectur2\obj\Debug\net6.0\Lectur2.AssemblyInfo.cs
+C:\Users\HOME\Desktop\lectures\Lectur2\obj\Debug\net6.0\Lectur2.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\lectures\Lectur2\obj\Debug\net6.0\Lectur2.dll
+C:\Users\HOME\Desktop\lectures\Lectur2\obj\Debug\net6.0\refint\Lectur2.dll
+C:\Users\HOME\Desktop\lectures\Lectur2\obj\Debug\net6.0\Lectur2.pdb
+C:\Users\HOME\Desktop\lectures\Lectur2\obj\Debug\net6.0\Lectur2.genruntimeconfig.cache
+C:\Users\HOME\Desktop\lectures\Lectur2\obj\Debug\net6.0\ref\Lectur2.dll
